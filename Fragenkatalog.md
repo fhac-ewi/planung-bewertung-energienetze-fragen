@@ -117,6 +117,17 @@ F 1 - 17
 </td></tr></table>
 </details>
 
+## Netze
+Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von%20GAEHCK.md).
+<details><summary><b>An welche Restriktionen sind Verteilnetzbetreiber gebunden?</b></summary>
+<table><tr><td>
+
+- DIN EN 50160 (Merkmale der Spannungsbandes in öffentlichen Elektrizitätsversorgungsnetzen werden festgelegt)
+- Planungs- und Betriebsgrundsätze
+- Technische Anschlussbedingungen Niederspannung
+</td></tr></table>
+</details>
 
 
-Generiert am Sun Jul 18 10:10:54 UTC 2021
+
+Generiert am Mon Jul 19 08:11:51 UTC 2021
