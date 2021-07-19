@@ -23,3 +23,9 @@
 # Welche Spannungsänerung wird maximal durch die Einspeisung von Regenerativen Energie Anlagen im Nieder(NS)- und Mittelspannungsnetz(MS) tolleriert ?
 - MS-Netz, Spannungsänderung von max. 2%
 - NS-Netz, Spannungsänderung von max. 3%
+
+# Nennen sie die drei Messkonzepte für die Spannungsregelung am HS-/MS-Umspannwerk und ihre Kostenreihenfolge.
+Kosten wie Reihenfolge:
+1. Spannungsmessung an der MS-Sammelschiene
+2. Spannungsmessung an MS-Sammelschiene und Messung der vom Transformator übertragenen Leistung
+3. Spannungsmessung an kritischen Netzverknüpfungspunkten (Schlechtpunkte) oder vollständige Netzzustandsermittlung
