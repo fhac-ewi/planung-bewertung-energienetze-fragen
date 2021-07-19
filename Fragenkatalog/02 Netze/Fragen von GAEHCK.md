@@ -10,5 +10,5 @@
 # In welche drei Betriebszustände können Betriebsmittel im Rahmen der Planungs-und Betriebsgrundsätze (PuB) unterteilt werden ?
 - Störfall   -> Dauer maximal 8 Stunden
 - VNB-Last   -> Belastungsgrad 0,7
-- Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel
+- Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel / Belastungsgrad 1
 
