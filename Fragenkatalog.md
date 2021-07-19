@@ -217,9 +217,91 @@ Kosten wie Reihenfolge:
 ## Planung_von_Netzen
 Fragen aus der Datei [Netzplanung](./Fragenkatalog/03%20Planung_von_Netzen/Netzplanung.md).
 
+<details><summary><b>Welchee Herausforderung hat die Netzplanung</b></summary>
+<table><tr><td>
+
+- Wachsender Zubau an REA
+- Strukturelle Einbindung
+- bedarfsgerechte Versorgung der Stromkunden
+- integration von erneuerbaren Energien(Projektdruck und wenig Absprache)
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind die Mussziele bei der Netzplanung ?</b></summary>
+<table><tr><td>
+
+- Übertragungsfähigkeit
+- Kurzschlussstrombeanspruchung
+- Versorgungszuverlässigkeit
+- Netzbetriebsführung
+- Planungsziele: Sicherheit, Wirtschaftlichkeit und Umweltverträglichkeit
+
+</td></tr></table>
+</details>
+<details><summary><b>Wann ist ein Netzausbau überhaupt nötig?</b></summary>
+<table><tr><td>
+
+1. Betriebsmittelüberlastung
+2. Spannungskriterium (2% / 3%)
+3. Nennspannungsprüfung (±10 %)
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Gründe gibt es für eine Netzplanung ?</b></summary>
+<table><tr><td>
+
+- Änderung oder Erweiterung des Versorgungsgebietes, Anlagenersatz und Netzertüchtigung
+- Lastveränderung durch Zubau/Abbau
+- Ausbau von Regenerative Energie Anlagen
+- Erhöhung der Versorgungszuverlässigkeit 
+- Minimierung der Netzverluste
+- Ausgestaltung von Smart Grids
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche 5 Planungsschritte werden in welcher Reihenfolge bei einer Planung durchgeführt?</b></summary>
+<table><tr><td>
+
+ Information -> Modellierung -> Analyse -> Planungsarbeit -> Dokumentation
+ 
+</td></tr></table>
+</details>
+<details><summary><b>Was ist das Problem der operativen Planungsmethode ?</b></summary>
+<table><tr><td>
+
+- Komplizierte strukturierung
+- Betriebsmittel sind schwieriger zu handhaben
+- Fehlerbehebung ist schwierig
+- Versorgungssicherheit sinkt
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie ist das vorgehen der strategischen Planungsmethodik ?</b></summary>
+<table><tr><td>
+
+- Mittel-und langfristig mit bewussten Eingriffen in das Netz als Gesamtsystem zur Erhaltung oder Wiederherstellung der Standardnetzform
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist das Ziel der Greenfield-Planung ?</b></summary>
+<table><tr><td>
+
+- Ziel ist es ein komplexes durch operativen Ausbau geprägtes Netz in ein optimal strukturiertes Netz zu überführen. 
+
+</td></tr></table>
+</details>
+<details><summary><b>Was sind die Schritte bei der erstellung einer Greenfield-Planung ?</b></summary>
+<table><tr><td>
+
+1. Erstellung des aktuellen Netzplanes
+2. Ausblenden der Verbindungsleitungen
+3. Erstellung des Ziel-Netzes
+  - Erarbeiten von verschiedenen Varianten
+  - Bewertung der Variante und optimale Zielnetz auswahl.
+
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 12:00:33 UTC 2021
+Generiert am Mon Jul 19 12:41:26 UTC 2021
