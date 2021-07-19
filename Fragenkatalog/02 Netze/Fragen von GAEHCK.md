@@ -39,3 +39,6 @@ Kosten wie Reihenfolge:
 
 ![Einspeisemanagmentvergleich](./Einspeisemanagmentvergleich.PNG)
 
+# Was ist ein Regionaler Flexibilitätsmarkt ?
+- Dieser Markt ist eine Hadelsplattform zum einkauf von Flexibilität, welche Grenzwertverletzungen zu verhindern.
+- Voraussetzung ist ein dezentrales Netzautomatisierungssystem
