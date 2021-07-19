@@ -179,9 +179,19 @@ Kosten wie Reihenfolge:
 <table><tr><td>
 
 ![GitHub Logo](./Fragenkatalog/02 Netze/ROS%20Einsatzweisen.PNG)
+
+</td></tr></table>
+</details>
+<details><summary><b>Was ist der unterschied zwischen dem statischen und dynamischen Einspeisemanagment?</b></summary>
+<table><tr><td>
+
+- dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
+- gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
+-
+
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 09:58:01 UTC 2021
+Generiert am Mon Jul 19 10:09:30 UTC 2021
