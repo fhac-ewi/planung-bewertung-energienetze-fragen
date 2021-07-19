@@ -188,7 +188,7 @@ Kosten wie Reihenfolge:
 - gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
 - dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
 
-![Einspeisemanagmentvergleich](./Fragenkatalog/02 Netze/Einspeisemanagmentvergleich.PNG)
+![Einspeisemanagmentvergleich](./Fragenkatalog/02%20Netze/Einspeisemanagmentvergleich.PNG)
 
 </td></tr></table>
 </details>
@@ -216,4 +216,4 @@ Kosten wie Reihenfolge:
 
 
 
-Generiert am Mon Jul 19 10:42:55 UTC 2021
+Generiert am Mon Jul 19 10:47:09 UTC 2021
