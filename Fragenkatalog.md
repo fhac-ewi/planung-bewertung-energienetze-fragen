@@ -298,10 +298,10 @@ Fragen aus der Datei [Netzplanung](./Fragenkatalog/03%20Planung_von_Netzen/Netzp
 3. Erstellung des Ziel-Netzes
   - Erarbeiten von verschiedenen Varianten
   - Bewertung der Variante und optimale Zielnetz auswahl.
-
+  ![Greenfieldplanung](./Fragenkatalog/03%20Planung_von_Netzen/Greenfieldplanung.PNG)
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 12:43:09 UTC 2021
+Generiert am Mon Jul 19 12:43:56 UTC 2021
