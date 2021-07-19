@@ -141,7 +141,30 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 </td></tr></table>
 </details>
+<details><summary><b>Was passiert wenn auf Mittelspannungsebene(MS) ein Störfall auftritt?</b></summary>
+<table><tr><td>
+
+- Da in der MS eine (n-1)-sicher Versorgung vorgeschrieben ist können die Kunden nahezu unterbrechungsfrei versorgt werden.
+- Hierfür müssen Leistungsreserven in den Betriebsmitteln eingehalten werden.
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie hat sich die dezentrale Erzeugersituation auf das Spannungsniveau des Mittel- und Niederspannungsnetz ausgewirkt?</b></summary>
+<table><tr><td>
+
+- Die Erzeugunsituation hat dafür gesorgt, dass die Nennspannung von 104% auf 100% bzw. 97 % abgesenkt wurde da nun Einspeisung im Niederspannungsnetz statt findet.
+- Bessere Ausnutzung des gesamten Spannungsband
+
+</td></tr></table>
+</details>
+<details><summary><b>Welche Spannungsänerung wird maximal durch die Einspeisung von Regenerativen Energie Anlagen im Nieder(NS)- und Mittelspannungsnetz(MS) tolleriert ?</b></summary>
+<table><tr><td>
+
+- MS-Netz, Spannungsänderung von max. 2%
+- NS-Netz, Spannungsänderung von max. 3%
+</td></tr></table>
+</details>
 
 
 
-Generiert am Mon Jul 19 08:47:56 UTC 2021
+Generiert am Mon Jul 19 09:25:22 UTC 2021
