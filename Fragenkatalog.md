@@ -197,9 +197,16 @@ Kosten wie Reihenfolge:
 
 - Dieser Markt ist eine Hadelsplattform zum einkauf von Flexibilität, welche Grenzwertverletzungen zu verhindern.
 - Voraussetzung ist ein dezentrales Netzautomatisierungssystem
+
+</td></tr></table>
+</details>
+<details><summary><b>Was bewirkt das Freileitungsmonitoring (FLM)?</b></summary>
+<table><tr><td>
+
+- Die Dauerstrombelastbarkeit wird dynamisch den Witterungsbedingungen angepasst, um die Belastungsreserven besser auszunutzen
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 10:23:10 UTC 2021
+Generiert am Mon Jul 19 10:32:49 UTC 2021
