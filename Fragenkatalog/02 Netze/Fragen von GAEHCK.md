@@ -29,3 +29,5 @@ Kosten wie Reihenfolge:
 1. Spannungsmessung an der MS-Sammelschiene
 2. Spannungsmessung an MS-Sammelschiene und Messung der vom Transformator übertragenen Leistung
 3. Spannungsmessung an kritischen Netzverknüpfungspunkten (Schlechtpunkte) oder vollständige Netzzustandsermittlung
+
+# Wie kann das  Übersetzungsverhältnis für Regelbarer Ortsnetztransformator (rONT) angepasst werden?
