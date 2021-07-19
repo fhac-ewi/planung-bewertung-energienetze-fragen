@@ -204,9 +204,16 @@ Kosten wie Reihenfolge:
 <table><tr><td>
 
 - Die Dauerstrombelastbarkeit wird dynamisch den Witterungsbedingungen angepasst, um die Belastungsreserven besser auszunutzen
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie wirkt sich das Dezentrale Netzautomatisierungssystem auf die Netzdimensionierung aus ?</b></summary>
+<table><tr><td>
+
+- Das Netz muss nicht länger für Worst-Case-Fall ausgelegt
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 10:32:49 UTC 2021
+Generiert am Mon Jul 19 10:37:39 UTC 2021
