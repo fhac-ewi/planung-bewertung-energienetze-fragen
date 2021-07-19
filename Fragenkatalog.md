@@ -123,14 +123,15 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 <table><tr><td>
 
 - DIN EN 50160 (Merkmale der Spannungsbandes in öffentlichen Elektrizitätsversorgungsnetzen werden festgelegt)
+  - Der 10-Minuten-Mittelwert soll mit 95% Wahrscheinlichkeit ein Delta von 10% haben
 - Planungs- und Betriebsgrundsätze
 - Technische Anschlussbedingungen Niederspannung
 
 
-Test
+
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 08:13:51 UTC 2021
+Generiert am Mon Jul 19 08:25:24 UTC 2021
