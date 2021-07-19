@@ -34,7 +34,8 @@ Kosten wie Reihenfolge:
 ![rONT](./ROS%20Einsatzweisen.PNG)
 
 # Was ist der unterschied zwischen dem statischen und dynamischen Einspeisemanagment?
-- dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
 - gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
+- dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
+
 ![Einspeisemanagmentvergleich](./Einspeisemanagmentvergleich.PNG)
 
