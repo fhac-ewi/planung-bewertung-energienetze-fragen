@@ -12,3 +12,14 @@
 - VNB-Last   -> Belastungsgrad 0,7
 - Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel / Belastungsgrad 1
 
+# Was passiert wenn auf Mittelspannungsebene(MS) ein Störfall auftritt?
+- Da in der MS eine (n-1)-sicher Versorgung vorgeschrieben ist können die Kunden nahezu unterbrechungsfrei versorgt werden.
+- Hierfür müssen Leistungsreserven in den Betriebsmitteln eingehalten werden.
+
+# Wie hat sich die dezentrale Erzeugersituation auf das Spannungsniveau des Mittel- und Niederspannungsnetz ausgewirkt?
+- Die Erzeugunsituation hat dafür gesorgt, dass die Nennspannung von 104% auf 100% bzw. 97 % abgesenkt wurde da nun Einspeisung im Niederspannungsnetz statt findet.
+- Bessere Ausnutzung des gesamten Spannungsband
+
+# Welche Spannungsänerung wird maximal durch die Einspeisung von Regenerativen Energie Anlagen im Nieder(NS)- und Mittelspannungsnetz(MS) tolleriert ?
+- MS-Netz, Spannungsänderung von max. 2%
+- NS-Netz, Spannungsänderung von max. 3%
