@@ -31,7 +31,7 @@ Kosten wie Reihenfolge:
 3. Spannungsmessung an kritischen Netzverknüpfungspunkten (Schlechtpunkte) oder vollständige Netzzustandsermittlung
 
 # Wie kann das  Übersetzungsverhältnis für Regelbarer Ortsnetztransformator (rONT) angepasst werden?
-<img src="./ROS%20Einsatzweisen.PNG"></img>
+![20Einsatzweisen](./ROS%20Einsatzweisen.PNG)
 
 # Was ist der unterschied zwischen dem statischen und dynamischen Einspeisemanagment?
 - gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
