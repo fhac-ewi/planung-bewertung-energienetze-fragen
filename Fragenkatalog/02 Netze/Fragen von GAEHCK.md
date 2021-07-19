@@ -31,3 +31,4 @@ Kosten wie Reihenfolge:
 3. Spannungsmessung an kritischen Netzverknüpfungspunkten (Schlechtpunkte) oder vollständige Netzzustandsermittlung
 
 # Wie kann das  Übersetzungsverhältnis für Regelbarer Ortsnetztransformator (rONT) angepasst werden?
+![GitHub Logo](./ROS%20Einsatzweisen.PNG)
