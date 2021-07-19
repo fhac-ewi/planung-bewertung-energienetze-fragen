@@ -137,11 +137,11 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 - Störfall   -> Dauer maximal 8 Stunden
 - VNB-Last   -> Belastungsgrad 0,7
-- Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel
+- Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel / Belastungsgrad 1
 
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 08:39:25 UTC 2021
+Generiert am Mon Jul 19 08:42:53 UTC 2021
