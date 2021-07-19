@@ -135,7 +135,7 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 <details><summary><b>In welche drei Betriebszustände können Betriebsmittel im Rahmen der Planungs-und Betriebsgrundsätze (PuB) unterteilt werden ?</b></summary>
 <table><tr><td>
 
-- Störfall   -> Dauer maximal 8 Stunden
+- Störfall   -> Dauer maximal 8 Stunden / Belastungsgrad 1,3
 - VNB-Last   -> Belastungsgrad 0,7
 - Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel / Belastungsgrad 1
 
@@ -144,4 +144,4 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 
 
-Generiert am Mon Jul 19 08:42:53 UTC 2021
+Generiert am Mon Jul 19 08:45:58 UTC 2021
