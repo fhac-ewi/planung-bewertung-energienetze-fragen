@@ -192,7 +192,14 @@ Kosten wie Reihenfolge:
 
 </td></tr></table>
 </details>
+<details><summary><b>Was ist ein Regionaler Flexibilitätsmarkt ?</b></summary>
+<table><tr><td>
+
+- Dieser Markt ist eine Hadelsplattform zum einkauf von Flexibilität, welche Grenzwertverletzungen zu verhindern.
+- Voraussetzung ist ein dezentrales Netzautomatisierungssystem
+</td></tr></table>
+</details>
 
 
 
-Generiert am Mon Jul 19 10:13:26 UTC 2021
+Generiert am Mon Jul 19 10:23:10 UTC 2021
