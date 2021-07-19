@@ -124,6 +124,9 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 - DIN EN 50160 (Merkmale der Spannungsbandes in öffentlichen Elektrizitätsversorgungsnetzen werden festgelegt)
   - Der 10-Minuten-Mittelwert soll mit 95% Wahrscheinlichkeit ein Delta von 10% haben
+- Schnelle Spannungsänderungen sind gemäß DIN EN 50160 
+  - Unter bestimmten Betriebsbedingungen dürfen mehrmals täglich mit kurzer Dauer Spannungsänderungen von bis zu 10 % von 𝑈n auftreten
+  - Unter normalen Betriebsbedingungen sollte die Spannungsänderung nicht höher als 5% sein
 - Planungs- und Betriebsgrundsätze
 - Technische Anschlussbedingungen Niederspannung
 
@@ -134,4 +137,4 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 
 
-Generiert am Mon Jul 19 08:25:24 UTC 2021
+Generiert am Mon Jul 19 08:34:46 UTC 2021
