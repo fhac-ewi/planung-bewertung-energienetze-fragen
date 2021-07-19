@@ -8,7 +8,7 @@
 - Technische Anschlussbedingungen Niederspannung
 
 # In welche drei Betriebszustände können Betriebsmittel im Rahmen der Planungs-und Betriebsgrundsätze (PuB) unterteilt werden ?
-- Störfall   -> Dauer maximal 8 Stunden / Belastungsgrad 1,3
+- Störfall   -> Dauer maximal 8 Stunden / Transformator Belastungsgrad 1,3 / Kabel  Belastungsgrad 1,2
 - VNB-Last   -> Belastungsgrad 0,7
 - Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel / Belastungsgrad 1
 
