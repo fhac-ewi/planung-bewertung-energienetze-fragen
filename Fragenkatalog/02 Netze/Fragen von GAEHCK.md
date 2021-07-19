@@ -45,3 +45,6 @@ Kosten wie Reihenfolge:
 
 # Was bewirkt das Freileitungsmonitoring (FLM)?
 - Die Dauerstrombelastbarkeit wird dynamisch den Witterungsbedingungen angepasst, um die Belastungsreserven besser auszunutzen
+
+# Wie wirkt sich das Dezentrale Netzautomatisierungssystem auf die Netzdimensionierung aus ?
+- Das Netz muss nicht länger für Worst-Case-Fall ausgelegt
