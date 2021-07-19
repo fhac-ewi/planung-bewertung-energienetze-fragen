@@ -178,7 +178,7 @@ Kosten wie Reihenfolge:
 <details><summary><b>Wie kann das  Übersetzungsverhältnis für Regelbarer Ortsnetztransformator (rONT) angepasst werden?</b></summary>
 <table><tr><td>
 
-<img src="./ROS%20Einsatzweisen.PNG"></img>
+![20Einsatzweisen](./Fragenkatalog/02%20Netze/ROS%20Einsatzweisen.PNG)
 
 </td></tr></table>
 </details>
@@ -216,4 +216,4 @@ Kosten wie Reihenfolge:
 
 
 
-Generiert am Mon Jul 19 10:47:09 UTC 2021
+Generiert am Mon Jul 19 10:48:51 UTC 2021
