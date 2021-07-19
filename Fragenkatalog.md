@@ -162,9 +162,19 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 
 - MS-Netz, Spannungsänderung von max. 2%
 - NS-Netz, Spannungsänderung von max. 3%
+
+</td></tr></table>
+</details>
+<details><summary><b>Nennen sie die drei Messkonzepte für die Spannungsregelung am HS-/MS-Umspannwerk und ihre Kostenreihenfolge.</b></summary>
+<table><tr><td>
+
+Kosten wie Reihenfolge:
+1. Spannungsmessung an der MS-Sammelschiene
+2. Spannungsmessung an MS-Sammelschiene und Messung der vom Transformator übertragenen Leistung
+3. Spannungsmessung an kritischen Netzverknüpfungspunkten (Schlechtpunkte) oder vollständige Netzzustandsermittlung
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 09:25:22 UTC 2021
+Generiert am Mon Jul 19 09:49:28 UTC 2021
