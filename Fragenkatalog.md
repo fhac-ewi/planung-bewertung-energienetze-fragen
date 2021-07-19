@@ -185,8 +185,9 @@ Kosten wie Reihenfolge:
 <details><summary><b>Was ist der unterschied zwischen dem statischen und dynamischen Einspeisemanagment?</b></summary>
 <table><tr><td>
 
-- dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
 - gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
+- dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
+
 ![Einspeisemanagmentvergleich](./Fragenkatalog/02 Netze/Einspeisemanagmentvergleich.PNG)
 
 </td></tr></table>
@@ -194,4 +195,4 @@ Kosten wie Reihenfolge:
 
 
 
-Generiert am Mon Jul 19 10:12:41 UTC 2021
+Generiert am Mon Jul 19 10:13:26 UTC 2021
