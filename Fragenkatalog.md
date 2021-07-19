@@ -178,7 +178,7 @@ Kosten wie Reihenfolge:
 <details><summary><b>Wie kann das  Übersetzungsverhältnis für Regelbarer Ortsnetztransformator (rONT) angepasst werden?</b></summary>
 <table><tr><td>
 
-![GitHub Logo](./Fragenkatalog/02 Netze/ROS%20Einsatzweisen.PNG)
+![rONT](./Fragenkatalog/02 Netze/ROS%20Einsatzweisen.PNG)
 
 </td></tr></table>
 </details>
@@ -187,11 +187,11 @@ Kosten wie Reihenfolge:
 
 - dauerhafte statische Begrenzung der eingespeisten Wirkleistung bei statischem Einspeisemanagement 
 - gezielte dynamische Absenkung der eingespeisten Wirkleistung bei dynamischen Einspeisemanagement
--
+![Einspeisemanagmentvergleich](./Fragenkatalog/02 Netze/Einspeisemanagmentvergleich.PNG)
 
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 10:11:02 UTC 2021
+Generiert am Mon Jul 19 10:12:41 UTC 2021
