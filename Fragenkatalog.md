@@ -300,9 +300,16 @@ Fragen aus der Datei [Netzplanung](./Fragenkatalog/03%20Planung_von_Netzen/Netzp
   - Bewertung der Variante und optimale Zielnetz auswahl.
  
 ![Greenfieldplanung](./Fragenkatalog/03%20Planung_von_Netzen/Greenfieldplanung.PNG)
+
+</td></tr></table>
+</details>
+<details><summary><b>Wie werden Betriebsmittel im Zuge der Informations Aufbereitung der Planung von Netzen geschätzt ?</b></summary>
+<table><tr><td>
+
+Bei einigen Betriebsmitteln müssen wahrscheinlich Daten geschätzt werden. Dabei ist zu beachten, dass diese niemals unterschätzt werden sollten, aber auch nicht maßlos überschätzt.
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 12:44:35 UTC 2021
+Generiert am Mon Jul 19 12:50:10 UTC 2021
