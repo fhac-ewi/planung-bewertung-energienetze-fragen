@@ -42,3 +42,6 @@ Kosten wie Reihenfolge:
 # Was ist ein Regionaler Flexibilitätsmarkt ?
 - Dieser Markt ist eine Hadelsplattform zum einkauf von Flexibilität, welche Grenzwertverletzungen zu verhindern.
 - Voraussetzung ist ein dezentrales Netzautomatisierungssystem
+
+# Was bewirkt das Freileitungsmonitoring (FLM)?
+- Die Dauerstrombelastbarkeit wird dynamisch den Witterungsbedingungen angepasst, um die Belastungsreserven besser auszunutzen
