@@ -46,4 +46,5 @@
 3. Erstellung des Ziel-Netzes
   - Erarbeiten von verschiedenen Varianten
   - Bewertung der Variante und optimale Zielnetz auswahl.
-  ![Greenfieldplanung](./Greenfieldplanung.PNG)
+ 
+![Greenfieldplanung](./Greenfieldplanung.PNG)
