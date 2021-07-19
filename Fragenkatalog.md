@@ -307,9 +307,19 @@ Fragen aus der Datei [Netzplanung](./Fragenkatalog/03%20Planung_von_Netzen/Netzp
 <table><tr><td>
 
 Bei einigen Betriebsmitteln müssen wahrscheinlich Daten geschätzt werden. Dabei ist zu beachten, dass diese niemals unterschätzt werden sollten, aber auch nicht maßlos überschätzt.
+
+</td></tr></table>
+</details>
+<details><summary><b>Was versteht man bei CAPEX und OPEX ?</b></summary>
+<table><tr><td>
+
+- CAPEX := Investitionsausgaben eines Unternehmens
+- OPEX  := Ausgaben zur Gewährleistung des Unternehmensbetriebs
+
+
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 12:50:10 UTC 2021
+Generiert am Mon Jul 19 13:25:48 UTC 2021
