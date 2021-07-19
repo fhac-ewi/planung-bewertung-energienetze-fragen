@@ -51,3 +51,9 @@
 
 # Wie werden Betriebsmittel im Zuge der Informations Aufbereitung der Planung von Netzen geschätzt ?
 Bei einigen Betriebsmitteln müssen wahrscheinlich Daten geschätzt werden. Dabei ist zu beachten, dass diese niemals unterschätzt werden sollten, aber auch nicht maßlos überschätzt.
+
+# Was versteht man bei CAPEX und OPEX ?
+- CAPEX := Investitionsausgaben eines Unternehmens
+- OPEX  := Ausgaben zur Gewährleistung des Unternehmensbetriebs
+
+
