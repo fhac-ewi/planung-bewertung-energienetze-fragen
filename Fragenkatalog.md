@@ -130,11 +130,18 @@ Fragen aus der Datei [Fragen von GAEHCK](./Fragenkatalog/02%20Netze/Fragen%20von
 - Planungs- und Betriebsgrundsätze
 - Technische Anschlussbedingungen Niederspannung
 
+</td></tr></table>
+</details>
+<details><summary><b>In welche drei Betriebszustände können Betriebsmittel im Rahmen der Planungs-und Betriebsgrundsätze (PuB) unterteilt werden ?</b></summary>
+<table><tr><td>
 
+- Störfall   -> Dauer maximal 8 Stunden
+- VNB-Last   -> Belastungsgrad 0,7
+- Dauerbetrieb -> gleichmäßige Belastung der Betriebsmittel
 
 </td></tr></table>
 </details>
 
 
 
-Generiert am Mon Jul 19 08:34:46 UTC 2021
+Generiert am Mon Jul 19 08:39:25 UTC 2021
