@@ -250,12 +250,14 @@ Fragen aus der Datei [Netzplanung](./Fragenkatalog/03%20Planung_von_Netzen/Netzp
 <details><summary><b>Welche Gründe gibt es für eine Netzplanung ?</b></summary>
 <table><tr><td>
 
-- Änderung oder Erweiterung des Versorgungsgebietes, Anlagenersatz und Netzertüchtigung
-- Lastveränderung durch Zubau/Abbau
-- Ausbau von Regenerative Energie Anlagen
-- Erhöhung der Versorgungszuverlässigkeit 
-- Minimierung der Netzverluste
-- Ausgestaltung von Smart Grids
+- Netz Ausbau
+ - Änderung oder Erweiterung des Versorgungsgebietes, Anlagenersatz und Netzertüchtigung
+ - Lastveränderung durch Zubau/Abbau
+ - Ausbau von Regenerative Energie Anlagen
+- Netz Qualität
+ - Erhöhung der Versorgungszuverlässigkeit 
+ - Minimierung der Netzverluste
+ - Ausgestaltung von Smart Grids
 
 </td></tr></table>
 </details>
@@ -322,4 +324,4 @@ Bei einigen Betriebsmitteln müssen wahrscheinlich Daten geschätzt werden. Dabe
 
 
 
-Generiert am Mon Jul 19 13:25:48 UTC 2021
+Generiert am Tue Jul 20 08:27:26 UTC 2021
