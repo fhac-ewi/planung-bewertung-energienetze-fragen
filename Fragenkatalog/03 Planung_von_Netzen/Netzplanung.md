@@ -19,13 +19,13 @@
 
 # Welche Gründe gibt es für eine Netzplanung ?
 - Netz Ausbau
- - Änderung oder Erweiterung des Versorgungsgebietes, Anlagenersatz und Netzertüchtigung
- - Lastveränderung durch Zubau/Abbau
- - Ausbau von Regenerative Energie Anlagen
+  - Änderung oder Erweiterung des Versorgungsgebietes, Anlagenersatz und Netzertüchtigung
+  - Lastveränderung durch Zubau/Abbau
+  - Ausbau von Regenerative Energie Anlagen
 - Netz Qualität
- - Erhöhung der Versorgungszuverlässigkeit 
- - Minimierung der Netzverluste
- - Ausgestaltung von Smart Grids
+  - Erhöhung der Versorgungszuverlässigkeit 
+  - Minimierung der Netzverluste
+  - Ausgestaltung von Smart Grids
 
 # Welche 5 Planungsschritte werden in welcher Reihenfolge bei einer Planung durchgeführt?
  Information -> Modellierung -> Analyse -> Planungsarbeit -> Dokumentation
